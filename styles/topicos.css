@@ -43,5 +43,6 @@
 @media screen and (min-width: 1728px) {
     .topicos {
         padding: 4em 25vw;
+        margin: 0.5em;
     }
 }
