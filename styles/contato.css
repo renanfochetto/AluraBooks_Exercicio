@@ -33,7 +33,7 @@
 .contato__email::placeholder {
     font-family: var(--principal-font);
     color: var(--tertiary-color);
-    background: url(./assets/Email.svg) no-repeat;
+    background: url('../assets/Email.svg') no-repeat;
     background-position: 1.3em 1em;
 }
 
